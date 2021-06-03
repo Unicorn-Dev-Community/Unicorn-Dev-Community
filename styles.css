@@ -1,7 +1,7 @@
 body {
     background-color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 #heading {
@@ -29,7 +29,7 @@ h1 {
 
 @media (min-width: 480px) {
   h1 {
-    font-size: 6em;
+    font-size: 1.2em;
   }
 }
 
