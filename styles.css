@@ -2,10 +2,18 @@ body {
     background-color: white;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.rem;
+    margin:0;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight:300;
+  letter-spacing: 2px;
+  font-size:48px;
 }
 
 #heading {
-    color: black;
+    color: White;
     text-align: center;
     margin-top: 10rem;
 }
